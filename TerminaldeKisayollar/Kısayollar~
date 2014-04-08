@@ -1,0 +1,29 @@
+ctrl+shift+t => Yeni terminal açar.
+
+ctrl+shift+n => Oldugun dizinde bulunan yeni bir terminal açar.
+
+ctrl+shift+r => O an yazdıgımız bir yazıyı daha önce yazılanlar arasından içinde o kelime yada harf gecenleri ekranda gösterir ve tab yapınca onu yazmıs oluruz.
+
+ctrl+shift+q => Terminali kapatır.
+
+ctrl+shift+f => Bir arayuz açar ve oraya girdigimiz yazıyı terminalde arar.
+
+ctrl+shift+l => Terminal ekranını temizler.
+
+ctrl+p => Terminalde en son girdigimiz kodu yazdırır. Her basmada bi önceki yazılan gelir.
+
+yukarı tusu => Terminalde en son girdigimiz kodu yazdırır. Her basılışta bir önceki yazılan gelir.
+
+ctrl+shift+yukarı tusu => Terminal ekranında yukarıya dogru cıkar.
+
+ctrl+shift+aşağı tusu => Terminal ekranında aşağı dogru iner.
+
+ctrl+z => Yaptığımız işlemi sonlandırır.
+
+ctrl+t => Terminalde yazılı olan yazının son iki karakterinin yerini değiştirir.
+
+ctrl+0 => Terminali normal boyuta getirir.
+
+ctrl+shift+ 4 => Terminaldeki yazıları büyütür.
+
+ctrl+(-) => Terminaldeki yazıları küçültür.
